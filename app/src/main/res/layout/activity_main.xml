@@ -10,16 +10,19 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textColor="#0037FF"
         android:text="안녕하세요."/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textSize="20sp"
         android:text="반갑습니다."/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
         android:text="잘 부탁드립니다."/>
 
     <LinearLayout
